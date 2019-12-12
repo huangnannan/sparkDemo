@@ -1,0 +1,27 @@
+{
+  "ObjectType":"REQ",
+  "RequestId":"OMG10182019_NMEM_CA02",
+  "Objects":[
+    {
+      "Action":"create",
+      "ManualOffset":"-P0DT1S",
+      "ProcessTypeId":"InternalTransport",
+      "RequestId":"",
+      "Comments":"",
+      "FromLocationId":"NMEM",
+      "VendorId":"",
+      "LocationId":"CA02",
+      "ProductId":"ANX1215",
+      "DeliveryDate":"2019/08/01 00:00:00",
+      "CreateId":"OMP1",
+      "ERPId":"",
+      "ObjectType":"",
+      "LeadTime":"P0D",
+      "TotalQuantity":"10",
+      "UnitId":"EA",
+      "OSUserId":"cep",
+      "ProcessId":"TR/3323NBS/CA02/NMEM/Air",
+      "Blocked":"YES"
+    }
+  ]
+}
